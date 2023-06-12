@@ -1,0 +1,11 @@
+01. Try to declare the variable with/without public static final keywords. Is there any difference between these two
+approches? why?
+ No difference,
+ In this interface methode they already assign as (public, static) final (default)
+
+02. Declare the abstract method with/without abstract keyword. Is there any difference between these two
+approches? why?
+ No differernce,
+ In this abstract methode they already assign as (default) abstract method. only in interface method.
+
+03.
