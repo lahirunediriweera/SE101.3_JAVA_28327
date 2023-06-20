@@ -1,0 +1,26 @@
+1. b) super
+
+2. b) private 
+
+3. b) Packages
+
+4. c) import pkg.*
+
+5. c) charAt()
+
+6. d) length()
+
+
+PART 03: Fill in the blanks using appropriate term.
+
+
+1.	Real-world objects contain _State__ and _behavior__.
+2.	A software object's state is stored in _instance variables__.
+3.	A software object's behavior is exposed through _methods__.
+4.	Hiding internal data from the outside world, and accessing it only through publicly exposed methods is known as data _Encapsulation__.
+5.	A blueprint for a software object is called a _class__.
+6.	Common behavior can be defined in a _parent class__ and inherited into a _child class__ using the _extends__ keyword.
+7.	A collection of methods with no implementation is called an _interface__.
+8.	A namespace that organizes classes and interfaces by functionality is called a _package__.
+9.	The term API stands for _Application Programming Interface__?
+
